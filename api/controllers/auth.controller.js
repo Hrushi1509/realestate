@@ -1,4 +1,3 @@
-import { mongo } from "mongoose";
 import User from "../models/user.mode.js"
 import bcryptjs from'bcryptjs'
 import {errorHandler} from '../utils/error.js'
